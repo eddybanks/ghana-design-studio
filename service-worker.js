@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ghana-design-studio/precache-manifest.3d002759e56ca6373affcb21025c32e5.js"
+  "/ghana-design-studio/precache-manifest.9d632324c1077f87fbd3348ba76e42a1.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "163fb743fb463d6ca46326f6f783ed2e",
+    "revision": "722a3940e0c8aa5b0fac0e40bfc7a6e7",
     "url": "/ghana-design-studio/index.html"
   },
   {
-    "revision": "8279db857fc04be4168d",
+    "revision": "81a4ce312a40768e9235",
     "url": "/ghana-design-studio/static/css/main.bc978deb.chunk.css"
   },
   {
-    "revision": "62aae8b8675497791af8",
-    "url": "/ghana-design-studio/static/js/2.5478c64a.chunk.js"
+    "revision": "419c4d6b62de2c49c204",
+    "url": "/ghana-design-studio/static/js/2.678e2fbf.chunk.js"
   },
   {
-    "revision": "8279db857fc04be4168d",
-    "url": "/ghana-design-studio/static/js/main.c1a637b0.chunk.js"
+    "revision": "81a4ce312a40768e9235",
+    "url": "/ghana-design-studio/static/js/main.b5a1ca5c.chunk.js"
   },
   {
     "revision": "abc16d236873d208f0f0",
