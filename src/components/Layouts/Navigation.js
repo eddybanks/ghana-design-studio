@@ -1,5 +1,5 @@
-import React from 'react';
-import { makeStyles } from '@material-ui/styles';
+import React, { useState, useEffect } from 'react';
+import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
@@ -19,18 +19,27 @@ const useStyles = makeStyles(theme => ({
   },
 }))
 
-export default function navigation() {
+const Navigation = () => {
   const classes = useStyles()
+  const navList = [
+    { title: 'Ghana Design Studio', path: '/' },
+    { title: 'About Us', path: '/about' },
+    { title: 'Contact Us', path: '/contact' }
+  ]
+
+  useEffect(() => {
+
+  }, [])
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
+      <AppBar position="static" color="inherit">
         <Toolbar>
           <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            {navList[0].title}
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
@@ -38,3 +47,5 @@ export default function navigation() {
     </div>
   )
 }
+
+export default Navigation
