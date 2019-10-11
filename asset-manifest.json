@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ghana-design-studio/static/css/main.bc978deb.chunk.css",
-    "main.js": "/ghana-design-studio/static/js/main.b5a1ca5c.chunk.js",
-    "main.js.map": "/ghana-design-studio/static/js/main.b5a1ca5c.chunk.js.map",
+    "main.css": "/ghana-design-studio/static/css/main.8836f629.chunk.css",
+    "main.js": "/ghana-design-studio/static/js/main.b77262af.chunk.js",
+    "main.js.map": "/ghana-design-studio/static/js/main.b77262af.chunk.js.map",
     "runtime-main.js": "/ghana-design-studio/static/js/runtime-main.49dbf28a.js",
     "runtime-main.js.map": "/ghana-design-studio/static/js/runtime-main.49dbf28a.js.map",
-    "static/js/2.678e2fbf.chunk.js": "/ghana-design-studio/static/js/2.678e2fbf.chunk.js",
-    "static/js/2.678e2fbf.chunk.js.map": "/ghana-design-studio/static/js/2.678e2fbf.chunk.js.map",
+    "static/js/2.aa821f5c.chunk.js": "/ghana-design-studio/static/js/2.aa821f5c.chunk.js",
+    "static/js/2.aa821f5c.chunk.js.map": "/ghana-design-studio/static/js/2.aa821f5c.chunk.js.map",
     "index.html": "/ghana-design-studio/index.html",
-    "precache-manifest.9d632324c1077f87fbd3348ba76e42a1.js": "/ghana-design-studio/precache-manifest.9d632324c1077f87fbd3348ba76e42a1.js",
+    "precache-manifest.29f10229eed9b4ea53b907638ddfbef9.js": "/ghana-design-studio/precache-manifest.29f10229eed9b4ea53b907638ddfbef9.js",
     "service-worker.js": "/ghana-design-studio/service-worker.js",
-    "static/css/main.bc978deb.chunk.css.map": "/ghana-design-studio/static/css/main.bc978deb.chunk.css.map"
+    "static/css/main.8836f629.chunk.css.map": "/ghana-design-studio/static/css/main.8836f629.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.49dbf28a.js",
-    "static/js/2.678e2fbf.chunk.js",
-    "static/css/main.bc978deb.chunk.css",
-    "static/js/main.b5a1ca5c.chunk.js"
+    "static/js/2.aa821f5c.chunk.js",
+    "static/css/main.8836f629.chunk.css",
+    "static/js/main.b77262af.chunk.js"
   ]
 }
