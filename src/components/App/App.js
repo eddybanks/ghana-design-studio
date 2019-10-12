@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 // import Header from '../Layouts/Header'
 import Navigation from '../Layouts/Navigation'
+import AboutContainer from '../../containers/AboutContainer'
 // import Typography from '@material-ui/core/Typography'
 
 import LandingContainer from '../../containers/LandingContainer'
@@ -15,6 +16,7 @@ class App extends Component {
         {/* <Typography><Header title="Ghana Design Studio" /></Typography> */}
         <Switch>
           <Route path="/"><LandingContainer /></Route>
+          <Route path="/"><AboutContainer /></Route>
         </Switch>
       </div>
     )
