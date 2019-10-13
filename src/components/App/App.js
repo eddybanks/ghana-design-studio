@@ -7,6 +7,7 @@ import AboutContainer from '../../containers/AboutContainer'
 import LandingContainer from '../../containers/LandingContainer'
 
 import { Route, Switch } from 'react-router-dom'
+import { ContactsContainer } from '../../containers/ContactsContainer'
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
         <Switch>
           <Route path="/"><LandingContainer /></Route>
           <Route path="/"><AboutContainer /></Route>
+          <Route path="/"><ContactsContainer /></Route>
         </Switch>
       </div>
     )
